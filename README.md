@@ -1,2 +1,2 @@
 # hello-world
-my first repository on Github
+今天开始正儿八经的使用github了
